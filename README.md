@@ -1,2 +1,2 @@
-# MoonlightGrainDelayV3
-Grain delay audio plugin using c++  (vst3)
+# Moonlight Grain Delay V2
+ audio plugin (grain delay) using juce framework and c++
